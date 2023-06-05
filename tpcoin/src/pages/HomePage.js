@@ -1,8 +1,13 @@
 import React from "react";
 import logo from "../img/bg-home-spaceman-and-dog.313ea5b0.svg";
+import { useNavigate } from "react-router-dom";
 import "./HomePage.css";
 
 export default function HomePage() {
+  const navigate= useNavigate();
+  function handleClick(){
+    navigate("/wallet")
+  }
   return (
     <>
       <div class="container">
@@ -28,6 +33,7 @@ export default function HomePage() {
           >
             <button
               type="button"
+              onClick={handleClick}
               style={{
                 height: "80px",
                 backgroundColor: "#05c0a5",

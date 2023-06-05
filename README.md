@@ -1,4 +1,2 @@
-# myWallet
-# new Repo
-# Testing
-# Ready to Work
+www.youtube.com/@simplyexplained
+github.com/lhartikk/naivecoin/tree/chapter6
