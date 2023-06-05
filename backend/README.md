@@ -1,6 +1,5 @@
-# Naivecoin
 
-The repository for the naivecoin tutorial: https://lhartikk.github.io/
+The repository for the coin tutorial: https://lhartikk.github.io/
 
 ```
 npm install
