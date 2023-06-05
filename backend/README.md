@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 The repository for the naivecoin tutorial: https://lhartikk.github.io/
+=======
+
+The repository for the coin tutorial: https://lhartikk.github.io/
+>>>>>>> 7a3aa3e083f2246844fe4e37a028a514d512ea20
 
 ```
 npm install
