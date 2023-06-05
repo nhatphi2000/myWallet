@@ -1,0 +1,14 @@
+body {
+  background-color: #184f90 !important;
+  height: 100%;
+}
+
+.container {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+.btn-primary:hover{
+    opacity: 70%;
+
+}
